@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "apiVersion": "1.0.0",
+  "author": "Mark \"Cool Guy\" Garrison",
+  "description": "",
+  "name": "LLA Frame V2 Tester",
+  "extensions": {
+    "FrameV2 Tester": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
